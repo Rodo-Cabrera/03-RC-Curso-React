@@ -1,0 +1,6 @@
+.cardContainer {
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
